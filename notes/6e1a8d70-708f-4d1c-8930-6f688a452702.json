@@ -1,0 +1,1 @@
+{"title":"manip objs","message":"object.key(pets);\n/*returns an array containing all the object's keys*/\n\nobject.values(pets);\n/*returns an array containing all the object's values*/\n","id":"6e1a8d70-708f-4d1c-8930-6f688a452702","date":"2018-12-03T20:18:19.752Z"}
