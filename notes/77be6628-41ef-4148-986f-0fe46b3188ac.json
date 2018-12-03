@@ -1,0 +1,1 @@
+{"title":"if statements","message":"// Example\nfunction ourTrueOrFalse(isItTrue) {\n  if (isItTrue) { \n    return \"Yes, it's true\";\n  }\n  return \"No, it's false\";\n}\n\n\nif (condition is true) {\n  statement is executed\n}\n","id":"77be6628-41ef-4148-986f-0fe46b3188ac","date":"2018-12-03T03:24:37.589Z"}
